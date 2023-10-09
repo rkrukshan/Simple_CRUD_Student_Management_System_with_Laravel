@@ -1,0 +1,2 @@
+@extends('grade.create')
+@section()
