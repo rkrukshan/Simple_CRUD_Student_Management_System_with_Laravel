@@ -1,4 +1,6 @@
 ![image](https://github.com/rkrukshan/Simple_CRUD_Student_Management_System_with_Laravel/assets/44175424/e12e9a0d-a7a3-42b3-8c29-ff126e57cdde)
+![Uploading image.png…]()
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
