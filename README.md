@@ -1,5 +1,5 @@
 ![image](https://github.com/rkrukshan/Simple_CRUD_Student_Management_System_with_Laravel/assets/44175424/e12e9a0d-a7a3-42b3-8c29-ff126e57cdde)
-![Uploading image.png…]()
+
 
 
 
